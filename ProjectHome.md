@@ -1,0 +1,1 @@
+The code contained here is a personal repository of test code and snippets
